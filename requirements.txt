@@ -1,0 +1,4 @@
+pytelegrambotapi=* 
+Pillow=* 
+rembg=*
+telebot=*
